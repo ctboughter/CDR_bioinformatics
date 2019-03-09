@@ -1,0 +1,114 @@
+Heavy Sequence 0
+SGGTSNNYA
+ISPIFGST
+CARHGNYYYYSGMDVW
+Heavy Sequence 1
+GFTFSTYG
+ISYDGNYK
+AKDSQLRSLLYFDWLSQGYFDHW
+Heavy Sequence 2
+GGIFRSNA
+IIAVFGTA
+High Mismatch with Conserved Regions, Check for Problems (HJ)
+High Mismatch with Conserved Regions, Check for Problems (HJ)
+ARGPYYYGNSHLDFW
+Heavy Sequence 3
+GFIFGHFA
+ISGGGLNT
+ARFDSSGYNYVRGMVVW
+Heavy Sequence 4
+GGSISSYY
+IYYSGST
+ARDCSGFEDMDSFYYFMDVW
+Heavy Sequence 5
+GYTFSNYG
+ISAYNGHT
+ARDRRDLLTGSLGDYW
+Heavy Sequence 6
+GFTFGAFA
+ISGGGGST
+GKYDSSGHHYVRRMHFW
+Heavy Sequence 7
+GGSIRSYY
+VYYTGGT
+ARGVSALVSVDYYYYYMDVW
+Heavy Sequence 8
+GYTFSNYG
+ISAYNGHT
+ARDKKDLLTGSLGDYW
+Heavy Sequence 9
+GFTFSNYA
+ISGNGGNT
+VKGQFLEWYNWFDPW
+Heavy Sequence 10
+GFTFSDYD
+ISDRGTK
+High Mismatch with Conserved Regions, Check for Problems (HJ)
+High Mismatch with Conserved Regions, Check for Problems (HJ)
+High Mismatch with Conserved Regions, Check for Problems (HJ)
+High Mismatch with Conserved Regions, Check for Problems (HJ)
+
+Heavy Sequence 11
+GGSMRSYY
+VYYSGGT
+High Mismatch with Conserved Regions, Check for Problems (HJ)
+ARGVSALVSVDYYYYYMDVWAKGPRSPSPQRRPRAHRSSPWHPPPRAPLGAQRPWA
+Light Sequence 0
+DSNIGRRS
+SND
+AAWDDSLKGAVF
+Light Sequence 1
+QSVSSNNKNY
+WAS
+QQHYRTPPTF
+Light Sequence 2
+QSVSSNY
+GA
+QQYGTSPRTF
+Light Sequence 3
+QDIKNY
+HVS
+HQCYNLPYTF
+Light Sequence 4
+High Mismatch with Conserved Regions, Check for Problems (L_B)
+High Mismatch with Conserved Regions, Check for Problems (L_B)
+High Mismatch with Conserved Regions, Check for Problems (L_C)
+GFTFSDYD
+High Mismatch with Conserved Regions, Check for Problems (L_Cp)
+EWVSAI
+High Mismatch with Conserved Regions, Check for Problems (LJ)
+High Mismatch with Conserved Regions, Check for Problems (LJ)
+VYYCAKGSLRDVFDIWGHGAMVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKD
+Light Sequence 5
+RGLLYIDGNTY
+HNVS
+MQGTYWPFTF
+Light Sequence 6
+QDINNN
+YDAS
+QQYREPLLTF
+Light Sequence 7
+NIGSKS
+YNR
+High Mismatch with Conserved Regions, Check for Problems (LJ)
+High Mismatch with Conserved Regions, Check for Problems (LJ)
+QVWDRNIDPHF
+We have a tie between lambda and kappa genes! This should not really happen
+Light Sequence 8
+QGLLYIDGNTY
+HNVS
+MQGTYWPFTF
+Light Sequence 9
+QSVSSN
+GAS
+QQCDNWPPTF
+Light Sequence 10
+QSIAGY
+DAS
+QQRSSWPLTF
+Light Sequence 11
+NIGSKS
+YNR
+High Mismatch with Conserved Regions, Check for Problems (LJ)
+High Mismatch with Conserved Regions, Check for Problems (LJ)
+QVWDRNIDPHF

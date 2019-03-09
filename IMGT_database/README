@@ -1,0 +1,11 @@
+All of these are (unfortunately) copied and pasted from IMGT's website in AA form.
+These were accessed on 03/08/19, and as of now have not been updated
+
+Note, the CDR3 loop is somewhere in between the V and J loci, so we'll have to include
+both of these sequences for the determination of these loops... i.e. IGHV and IGHJ for
+determining the heavy chain CDR3 loops
+
+Note, I also had to remove certain parts of the "J gene" file, because Marta Borowska said this is also included in the CDR loops...
+Was a somewhat arbitrary cutoff, but we cut where things looked conserved right before the G_G motif.
+
+This is important because I will be picking out my CDR loops based on where there are gaps in sequence similarity with conserved regions...

@@ -1,0 +1,3 @@
+Here's an attempt to pick out CDR loops automatically from AA sequence...
+We're going to use the IMGT database as a reference, and then basically just match
+up all of the known framework regions and pick the regions between as CDR loops
